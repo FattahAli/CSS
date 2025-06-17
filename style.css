@@ -18,6 +18,10 @@ button{
   color: white;
 }
 
+.text-black{
+  color: black;
+}
+
 .flex{
   display: flex;
 }
@@ -91,4 +95,16 @@ button{
 .px-28{
   padding-left: 28px;
   padding-right: 28px;
+}
+
+.w-full{
+  width: 100%;
+}
+
+.relative{
+  position: relative;
+}
+
+.z-10{
+  z-index: 10;
 }
