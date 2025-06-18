@@ -5,6 +5,14 @@ body{
   font-family: "Lato", sans-serif;
 }
 
+h1{
+  margin: 0;
+}
+
+p{
+  padding: 0;
+}
+
 button{
     font-family: "Lato", sans-serif;
 
@@ -107,4 +115,20 @@ button{
 
 .z-10{
   z-index: 10;
+}
+
+.object-fit{
+  object-fit: cover;
+}
+
+.text-brand-teal{
+  color: #90CAC7;
+}
+
+.text-brand-teal-dark{
+  color: #539D98;
+}
+
+.bg-white{
+  background-color: white;
 }
